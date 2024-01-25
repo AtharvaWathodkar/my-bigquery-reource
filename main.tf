@@ -29,7 +29,8 @@ EOF
 }
 
 resource "google_bigquery_table" "project_01_view" {
-  // ...
+  dataset_id = google_bigquery_dataset.project_01_dataset.dataset_id
+  table_id   = "project_01_view"
   view {
     query = replace("SELECT * FROM `${google_bigquery_table.project_02_table.project}.${google_bigquery_table.project_02_table.dataset_id}.${google_bigquery_table.project_02_table.table_id}`;", "`", "\\`")
     use_legacy_sql = false
