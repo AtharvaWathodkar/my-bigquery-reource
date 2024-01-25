@@ -1,10 +1,12 @@
 resource "google_bigquery_dataset" "project_01_dataset" {
   dataset_id = "project_01_dataset"
+  default_table_expiration_ms = 60 * 24 * 60 * 60 * 1000 # 60 days in milliseconds
 }
 
 resource "google_bigquery_dataset" "project_02_dataset" {
   provider = google.project_02
   dataset_id = "project_02_dataset"
+  default_table_expiration_ms = 60 * 24 * 60 * 60 * 1000 # 60 days in milliseconds
 }
 
 resource "google_bigquery_table" "project_02_table" {
