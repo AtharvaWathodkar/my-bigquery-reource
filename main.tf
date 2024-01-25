@@ -5,7 +5,7 @@ provider "google" {
 
 provider "google" {
   alias   = "project_02"
-  project = "brave-attic-354107"
+  project = "poetic-hawk-354105"
   region  = "us-central1"
 }
 
