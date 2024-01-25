@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cool-furnace-410107",
+  "private_key_id": "3cafbcf95099ce8c6b82967e2aa9aed33ccf992f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCeA5rVPG55tZwo\n3Huw4RIqzdjQrtQMx781WB7tNRZKojJZZ1Wse5bfT7MFE2viAz5MvBFPPsqRx5F4\nKTj5B9uNKLCMKCHdUHzvSg7dloSXeEZTkatlexm8wzYjsJBPi7eXweUzA5eluwDI\n8zU7qmvhZLR90IrxZjKf6gZGlDGXhLJiSQwsmcg10MD4bao96D3GKnHA5tovryqH\nW/aOc/fFb3u7LoFuCdPgX2nusIu8r2GA97InRetZRtnQqChNG2mosZ8PnbJPva65\nfpGPJZDRlwVKTcovUuh/7+Wunkx4iEm81hBiCEFWc2itFRUZsKr4FONDTe2JBzzw\njsNDZxHTAgMBAAECgf8aWUQsP2d6h1k+N/yUtDJKDqFWFL6CsPi1Ho8rCfeC9Ols\ntN8uYB+LKGQt+DYOaV5cbVGAuq9iA+NhNsxshlt7+JGke82gixdrkGK5+GT3NhVE\n99cN9Xcm2CdZo1/u4AnzCtMy5E5YSyZWW+YtWOoxUJfElv/pll5KBbLV+BfWLdUe\nRcdDsHUqC7oyIsOqZ9CRhsGoDbyqt/tewWy1eLphtwhGr+piBjsnyimCH334OQYx\nTlwhdWSqGoGtErX5LN7zGGRdk9RyFqA0IZNa68She2+LduZ6FyC/Td9Q9tIMABB3\nKv4QxthD3KS5/jfA5vR0XBmazi5+KteUaHTjhJUCgYEA10W/uBlrp8gy1ovIXpL7\n4QFIy2zSrtWOn7EQJj/WLJ4eFPy0XmVOrutN18Dnygr6nN3KO+lNM88JcnwyV6Jo\nk+JHLJnIZ/h+1b9q2W3I/1H88ghhqqEH/9gPlBUOFmaAK9F9L23peOM94vAeJXlc\nCHZR9jYDxoZzRQvu24xOA1cCgYEAu+ir7lbyx+rWJXdUv+MBjmvsbwrG710heakn\nty944u9MDOMC1IXw3iz1gYei3FeX80uhvWlBlG2qR1IdMOeGW4Xed/QVCsGYSUxG\nq4XwiTxO+ayNzh99/i8r0s+w2i576ZYVg2IOzre3e7DkD/TfRSdEchw9qICjKxSI\nvhYSc+UCgYEAhJNfDBkTtOPVc03o2124I40v8KAXbDb3PB/Gq1e7JgVGz3QF/PB1\nMcKWUR5rYYG7b+ojhxwaQKLr1YbpVhEeSJ0dajlXM7jVG/xj6H31QFCU79X7mCLO\nE2FTzsXcxCziGJpOd2xAUgPY9C8e0cNYy5laxr/jOVtKGCbONoXE8ccCgYBd3HsF\nMqlS8xrE3DaZIutEGOShEuEL75kpDDWqaywXLzDtvvdK8Ry/3fVEHlxbc+WSwdSo\nqEr5uU21Em9CXmPek5/six93n/xRoKgsRVtBMb7BOFAdBd4JecaKJvRQB6gdpbpZ\nRkHfQCWGw3UoA0kDYfnuhezGnnriqf8j9CKDgQKBgQCqK+mhfmWucLxa0xJPdz15\nF7g/RTOGa9vN02kNiLJwYSLiccOL4pIclbOMKYoNvZ11ebRhjyp94KNlC4fvMSji\nfyD0kBTr6mnxMqzrgKzBqjuWqQowPAVVlDDyR8gmlZmTcb5/Xtcnzvn/iavU+HDR\n324CZQgSpgpozyPSb2hxcA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-bq@cool-furnace-410107.iam.gserviceaccount.com",
+  "client_id": "112602840291472821762",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-bq%40cool-furnace-410107.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
