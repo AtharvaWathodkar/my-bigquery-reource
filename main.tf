@@ -1,14 +1,3 @@
-provider "google" {
-  project = "cool-furnace-410107"
-  region  = "us-central1"
-}
-
-provider "google" {
-  alias   = "project_02"
-  project = "poetic-hawk-354105"
-  region  = "us-central1"
-}
-
 resource "google_bigquery_dataset" "project_01_dataset" {
   dataset_id = "project_01_dataset"
 }
